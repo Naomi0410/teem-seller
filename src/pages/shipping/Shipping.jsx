@@ -182,7 +182,6 @@ const Shipping = () => {
                     <ActionButton
                       text="Save changes"
                       className="mt-3 w-100 btns"
-                      kw
                       type="submit"
                       pending={isSubmitting}
                       disabled={isSubmitting}
